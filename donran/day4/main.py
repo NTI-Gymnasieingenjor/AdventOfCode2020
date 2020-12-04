@@ -21,8 +21,9 @@ for i in range(len(data)):
     data[i] = data[i].replace("\n", " ").split(" ")
     v = 0
     for a in data[i]:
-        a = a.split(":")
-        if a[0] in reg and re.match(reg[a[0]], a[1]):
+        if a == "": continue
+        (key, value) = a.split(":")
+        if key in reg and re.match(reg[key], value):
             v += 1
     if v == len(reg):
         valid += 1
