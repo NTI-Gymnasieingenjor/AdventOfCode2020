@@ -1,6 +1,11 @@
 # Advent of Code Day 3.2
+import os
 
-road = open("C:/Users/felix.larsson5/Documents/- Code Jam -/- Advent Of Code -/dag3/dag3input.txt").readlines()
+parentPath = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+
+desiredPath = "\\AdventOfCode2020\\solutions\\dag3\\dag3input.txt"
+
+road = open(parentPath + desiredPath).readlines()
 
 incrementY = 2
 incrementX = 1
