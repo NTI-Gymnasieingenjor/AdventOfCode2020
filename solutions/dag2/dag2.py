@@ -1,4 +1,10 @@
-passwordList = open("C:/Users/felix.larsson5\Documents/- Code Jam -/- Advent Of Code -/dag2/dag2input.txt").readlines()
+import os
+
+parentPath = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+
+desiredPath = "\\AdventOfCode2020\\solutions\\dag2\\dag2input.txt"
+
+passwordList = open(parentPath + desiredPath).readlines()
 
 trash = [i.split(' ')[1] for i in passwordList]
 

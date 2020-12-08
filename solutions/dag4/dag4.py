@@ -1,6 +1,11 @@
 import re
+import os
 
-passportFileList = open("C:/Users/felix.larsson5/Documents/- Code Jam -/- Advent Of Code -/dag4/dag4input.txt").readlines()
+parentPath = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+
+desiredPath = "\\AdventOfCode2020\\solutions\\dag4\\dag4input.txt"
+
+passportFileList = open(parentPath + desiredPath).readlines()
 
 lastWasEmpty = True
 listCounter = 0
