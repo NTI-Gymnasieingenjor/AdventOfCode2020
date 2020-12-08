@@ -53,4 +53,11 @@ for i in boardingPasses:
 
     seatIDs.append(seatID)
 
-print(max(seatIDs))
+print(seatIDs)
+# sortedSeatIDs = sorted(seatIDs)
+# print(sortedSeatIDs)
+
+desiredNumber = sum(range(min(seatIDs), max(seatIDs) + 1))
+missingNumber = sum(seatIDs)
+actualNumber = desiredNumber - missingNumber
+print(actualNumber)
