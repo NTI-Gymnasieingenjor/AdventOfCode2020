@@ -1,0 +1,14 @@
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\bin\Debug\adventOfCodeDay2.exe.config
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\bin\Debug\adventOfCodeDay2.exe
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\bin\Debug\adventOfCodeDay2.pdb
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.csprojAssemblyReference.cache
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.exe
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.pdb
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\bin\Debug\adventOfCodeDay2.exe.config
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\bin\Debug\adventOfCodeDay2.exe
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\bin\Debug\adventOfCodeDay2.pdb
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.csprojAssemblyReference.cache
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.exe
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day2\adventOfCodeDay2\obj\Debug\adventOfCodeDay2.pdb

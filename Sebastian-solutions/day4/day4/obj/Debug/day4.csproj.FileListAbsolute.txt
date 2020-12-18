@@ -1,0 +1,7 @@
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\bin\Debug\day4.exe.config
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\bin\Debug\day4.exe
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\bin\Debug\day4.pdb
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\obj\Debug\day4.csprojAssemblyReference.cache
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\obj\Debug\day4.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\obj\Debug\day4.exe
+C:\Users\sebastian.landen1\Documents\GitHub\AdventOfCode2020\solutions\day4\day4\obj\Debug\day4.pdb

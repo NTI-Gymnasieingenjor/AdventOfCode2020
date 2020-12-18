@@ -1,0 +1,14 @@
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\bin\Debug\adventOfCodeDay1.exe.config
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\bin\Debug\adventOfCodeDay1.exe
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\bin\Debug\adventOfCodeDay1.pdb
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.csprojAssemblyReference.cache
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.exe
+C:\Users\sebastian.landen1\source\repos\adventOfCodeDay1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.pdb
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\bin\Debug\adventOfCodeDay1.exe.config
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\bin\Debug\adventOfCodeDay1.exe
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\bin\Debug\adventOfCodeDay1.pdb
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.csprojAssemblyReference.cache
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.exe
+C:\Users\sebastian.landen1\source\repos\day1\adventOfCodeDay1\obj\Debug\adventOfCodeDay1.pdb
