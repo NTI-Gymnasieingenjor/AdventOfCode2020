@@ -1,0 +1,3 @@
+Jag har mina andra Advent of code filer i Ubuntu, kommer addera dessa senare.
+
+10 är WIP och 0/2
